@@ -1,0 +1,11 @@
+{
+  "name": "transactionmanager",
+  "version": "1.0.0",
+  "description": "it returns an array of fake transactions.",
+  "main": "TransactionManager.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Achraf EL ISMAILI",
+  "license": "ISC"
+}
